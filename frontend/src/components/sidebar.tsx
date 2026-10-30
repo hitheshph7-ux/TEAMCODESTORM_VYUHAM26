@@ -16,8 +16,8 @@ function Sidebar() {
       <div className="logo">
         <div className="logo-icon">A</div>
         <div>
-          <h2>AF-01</h2>
-          <span>Workflow Platform</span>
+          <h2>Workflow Orchestrator</h2>
+          <span>Autonomous AI Platform</span>
         </div>
       </div>
 

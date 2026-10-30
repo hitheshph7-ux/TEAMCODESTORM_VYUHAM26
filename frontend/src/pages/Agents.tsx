@@ -63,11 +63,10 @@ function Agents() {
 
       <section className="content-section">
         <div className="governance-card">
-          <h3>Governance by Agnal</h3>
+          <h3>Governance & Security</h3>
           <p>
-            Agnal is the separate governance engine. It evaluates risk,
-            enforces permissions, controls approvals, and records agent
-            activities in the audit trail.
+            The governance layer manages risk, enforces permissions,
+            controls approvals, and maintains audit logs.
           </p>
         </div>
       </section>
