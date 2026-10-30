@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables (NEVER COMMIT)
+.env
+*.env
+
+# Database files (data persists locally)
+*.db
+*.sqlite
+*.sqlite3
+
+# LangGraph checkpoints
+*.db-shm
+*.db-wal
+
+# Node / Frontend
+node_modules/
+frontend/dist/
+frontend/.next/
+.npm
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Test artifacts
+test_vyuham.db
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# Build
+*.pyc
+*.whl
