@@ -1,0 +1,6 @@
+{
+  "name": "AF-01 Autonomous Workflow Orchestrator",
+  "description": "Autonomous AI-Based Workflow Orchestration Platform featuring Planner, Executor, Monitor, and Recover agents with risk-based governance and audit trail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
